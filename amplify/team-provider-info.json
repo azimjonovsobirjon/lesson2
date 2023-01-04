@@ -10,6 +10,14 @@
       "StackName": "amplify-lesson2-dev-213424",
       "StackId": "arn:aws:cloudformation:us-east-1:225010680310:stack/amplify-lesson2-dev-213424/47893c20-8c4d-11ed-8057-0ecd571039cf",
       "AmplifyAppId": "d2ej38n4lssauw"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2ej38n4lssauw",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
