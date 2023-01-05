@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Sobirjon
+          Learn React with Sobirjon !
         </a>
       </header>
     </div>
